@@ -19,5 +19,5 @@ Make sure you have Python and the required libraries installed.
 ```bash
 pip install tensorflow numpy matplotlib
 
-git clone https://github.com/your-username/mnist-digit-classifier.git
-cd mnist-digit-classifier
+git clone [https://github.com/your-username/mnist-digit-classifier.git](https://github.com/Krishgoenka/MNIST-ANN.git)
+
